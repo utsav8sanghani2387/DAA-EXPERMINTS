@@ -2,7 +2,7 @@ INF = float("inf")
 
 
 def coin_change(coins, n, amount):
-    # Initialize DP array
+
     dp = [INF] * (amount + 1)
     dp[0] = 0
 
