@@ -1,10 +1,12 @@
 
 
+
 from collections import deque
 
 
 def dfs(graph, visited, v, n):
     visited[v] = True
+    a=1
     print(v, end=" ")
 
     for i in range(n):

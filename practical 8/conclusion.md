@@ -7,3 +7,5 @@ Time and Space Complexity:
 2. Depth First Search (DFS):
    - Time Complexity: O(V^2) where V is the number of vertices (using an adjacency matrix).
    - Space Complexity: O(V) for the recursion stack and visited array.
+                            
+                            
